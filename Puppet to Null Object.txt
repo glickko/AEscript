@@ -1,0 +1,14 @@
+this code make deform puppet following the anchorpoint to null layer
+
+n=thisComp.layer("null_layer_name")
+nullpos=n.toComp(n.anchorPoint);
+fromComp(nullpos);
+
+
+
+
+
+create puppet warp first and that points
+make new null layer, move all point to same with puppet warp point
+select all null layer, press p for position
+connect all deform puppet warp to each named null point, change "null_layer_name" with same of your null layer name per deform
