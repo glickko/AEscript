@@ -17,17 +17,8 @@ Alternatively, you can install the scripts and extensions by copying them to the
 
 Each script and extension in this repository serves a specific purpose and has its own set of instructions and usage guidelines. Please refer to the individual script or extension files for more information on how to use them effectively.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have created a useful script or extension for After Effects, feel free to submit a pull request. Please ensure that your code is well-documented and follows best practices.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository, as long as you include the license file and give appropriate credit.
-
-## Contact
-
-If you have any questions, suggestions, or issues regarding the scripts and extensions in this repository, please feel free to contact me at [your_email@example.com].
+## UI Panels Zip
+**ScriptUI Panels.zip**: This archive contains a collection of custom user interface panels for various scripts and tools. These panels provide a graphical interface for interacting with and controlling various scripts, making it easier to use and configure them. Each panel is designed for a specific purpose, such as creating adjustment layers, precomposing layers, or applying effects. To use these panels, extract the contents of the ZIP file and follow the installation instructions provided within.
 
 ## Script Explanations
 
