@@ -18,7 +18,7 @@ Alternatively, you can install the scripts and extensions by copying them to the
 Each script and extension in this repository serves a specific purpose and has its own set of instructions and usage guidelines. Please refer to the individual script or extension files for more information on how to use them effectively.
 
 ## UI Panels Zip
-**ScriptUI Panels.zip**: This archive contains a collection of custom user interface panels for various scripts and tools. These panels provide a graphical interface for interacting with and controlling various scripts, making it easier to use and configure them. Each panel is designed for a specific purpose, such as creating adjustment layers, precomposing layers, or applying effects. To use these panels, extract the contents of the ZIP file and follow the installation instructions provided within.
+1. **ScriptUI Panels.zip**: This archive contains a collection of custom user interface panels for various scripts and tools. These panels provide a graphical interface for interacting with and controlling various scripts, making it easier to use and configure them. Each panel is designed for a specific purpose, such as creating adjustment layers, precomposing layers, or applying effects. To use these panels, extract the contents of the ZIP file and follow the installation instructions provided within.
 
 ## Script Explanations
 
